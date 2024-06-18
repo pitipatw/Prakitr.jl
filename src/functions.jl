@@ -7,7 +7,4 @@ function foo()
 end
 
 
-function foo2() 
-
-
 
